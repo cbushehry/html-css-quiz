@@ -8,7 +8,7 @@ freeCodeCamp project.
 ## 2. Features
  * quiz on basic html and  css functions
 
- ![](assets/images/html-css-quiz.jpg)
+ ![html-css-quiz homepage](./assets/images/html-css-quiz.jpg)
 
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
